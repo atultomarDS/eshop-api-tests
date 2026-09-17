@@ -7,3 +7,6 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 .claude/settings.local.json
+
+# Local environment
+.env
